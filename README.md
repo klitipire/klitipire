@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @klitipire
+- 👀 I’m an ASIC Verification Engineer
+- 🌱 Here I will be posting various topics about SystemVerilog, UVM and Cocotb.
